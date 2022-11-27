@@ -1,3 +1,5 @@
+## Ignore NodeJS temporary files
+
 node_modules/
 /test-results/
 /playwright-report/
